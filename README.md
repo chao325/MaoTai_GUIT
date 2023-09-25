@@ -10,9 +10,9 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 ### **联系收款方：zcsupercn@foxmail.com**
 
 <br/>
-<img src='imgs/gui1.jpg' width='30%' />
+<img src='imgs/gui1.png' width='30%' />
 <br/>
-<img src='imgs/gui2.jpg' width='30%' />
+<img src='imgs/gui2.png' width='30%' />
 （前端、后端、小程序、python 等定制化开发其他软件请联系：zcsupercn@foxmail.com）
 
 ## 更新日期
