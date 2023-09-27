@@ -8,6 +8,11 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 <br/>
 
 ### **联系收款方：zcsupercn@foxmail.com**
+## 更新日期
+
+2023 年 9 月 27 日
+
+- 增加多线程执行
 
 <br/>
 <img src='imgs/gui1.png' width='30%' />
