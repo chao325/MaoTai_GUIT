@@ -61,7 +61,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 刚刚上面教程讲到移动端 Cookie 的组成是：`pin=用户名;wskey=xxxx;`
 
-我们把对应的 Cookie 放到软件的输入框里，或者代码文件`myapp.py`
+我们把对应的 Cookie 放到软件的输入框里，或者代码文件`main.py`和'jdseckillAPIv2.py'文件里
 
 **以下步骤软件用户暂时忽略**
 
