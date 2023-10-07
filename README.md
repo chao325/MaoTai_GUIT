@@ -9,15 +9,15 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ### **联系收款方：zcsupercn@foxmail.com**
 
-生气啊！
-<br/>
-<img src='imgs/none.png' width='30%' />
+
 
 
 ## 更新日期
 - 2023 年 10 月 6 日
 
-  维护中
+  重写JD获取时间戳问题修复误差过大。
+  <br/>
+  <img src='imgs/jdtime.png' width='30%' />
 
 - 2023 年 9 月 27 日
 
