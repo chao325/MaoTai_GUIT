@@ -12,21 +12,30 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 
 
-## 更新日期
-- 2023 年 10 月 6 日
+## 更新日志：
 
-  重写JD获取时间戳问题修复误差过大。
-  <br/>
-  <img src='imgs/jdtime.png' width='30%' />
+### 2023年10月8日
+- 再次修复了JD服务器时间戳错误不准确问题
+- （这次是实打实JD服务器返回时间）
+<br/>
+<img src='imgs/NowTime.png' width='40%' />
 
-- 2023 年 9 月 27 日
+### 2023年10月6日
 
-  增加多线程执行
+- 修复了JD获取时间戳的问题，以前可能存在误差过大的情况。
+<br/>
+<img src='imgs/jdtime.png' width='40%' />
+
+### 2023年9月27日
+
+- 增加了多线程执行功能，这将提高程序的执行效率和性能。
 
 <br/>
-<img src='imgs/gui1.png' width='30%' />
+<img src='imgs/gui1.png' width='40%' />
 <br/>
-<img src='imgs/gui2.png' width='30%' />
+<img src='imgs/gui2.png' width='40%' />
+
+
 （前端、后端、小程序、python 等定制化开发其他软件请联系：zcsupercn@foxmail.com）
 
 - 2023 年 9 月 20 日
