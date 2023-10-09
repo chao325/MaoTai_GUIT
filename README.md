@@ -51,20 +51,25 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 软件使用前务必手动获取自己移动端的 Cookie。
 
 ## 第一步抓包
+**如果你是苹果手机强烈推荐 IOS 方法2**
+### IOS 抓包方法 2
+
+
+具体方法可参照 [IOS 抓包 2](https://blog.csdn.net/qq_39939418/article/details/124171135)
+
+
 
 ### Android & IOS 通用教程
 
 此方法需要电脑和手机配合。相对来说稍微简单些，方便些，参数都在电脑上方便复制。使用**Fiddler**软件抓包
 
-[Android 教程](https://docs.zcsuper.cn/posts/Fiddler_Android/)
 
-[IOS 教程](https://docs.zcsuper.cn/posts/Fiddler_iPhone/)
+[Android 教程](https://docs.zcsuper.cn/posts/Fiddler_Android/) 或 [Android 教程--1](https://juejin.cn/post/7280812850823299106) 
 
-### IOS 抓包方法 2
+[IOS 教程](https://docs.zcsuper.cn/posts/Fiddler_iPhone/) 或 [IOS 教程--1](https://juejin.cn/post/7280778306583986176)
 
-此外如果暂时没有电脑的情况下，可以使用软件**Stream**来进行抓包。
 
-具体方法可参照 [IOS 抓包 2](https://blog.csdn.net/qq_39939418/article/details/124171135)
+
 
 ---
 
