@@ -93,7 +93,16 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
  self.wifiBssid = "e965f6dexxxxxxx"
 ```
 
-**运行**
+
+
+## 第三方库
+需要使用到的库已经放在 requirements.txt，使用 pip 安装的可以使用指令
+`pip install -r requirements.txt`
+如果国内安装第三方库比较慢，可以使用以下指令进行清华源加速
+`pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/`
+
+
+## 运行
 
 ```cmd
 python myapp.py
