@@ -90,13 +90,17 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 <br/>
 
 提取出上述参数在`jdseckillAPIv2.py`文件里`init`初始化的方法里，组成我们的提交参数
-
 ```python
  self.eid = "eidIc11281210csxxxxxxxxxs4jVhEKMSQBNx6"
  self.uuid = "f3a6322845f49axxxxx"
  self.uts = "0f31TVRjBSsqndu4/jgUPz6uymy50MQJ01UyNObxxxxxxxx"
- self.wifiBssid = "e965f6dexxxxxxx"
 ```
+
+还有`query_params`参数里面的 `area` 字段，格式为数字的 xx_xx_xxx_x
+
+**以上参数抓包一次就可以全部获得，有就替换，没有就不替换！！**
+
+**cookie 5-7天重新抓包替换一次**
 
 
 
