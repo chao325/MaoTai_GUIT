@@ -27,10 +27,10 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 # 和恶意诋毁我的骗子聊天记录（部分）
 <img src='imgs/1.jpg' width='60%' />
-<img src='imgs/2.jpg' width='60%' />
-<img src='imgs/3.jpg' width='60%' />
-<img src='imgs/4.jpg' width='60%' />
-<img src='imgs/5.jpg' width='60%' />
+<img src='imgs/2.png' width='60%' />
+<img src='imgs/3.png' width='60%' />
+<img src='imgs/4.png' width='60%' />
+<img src='imgs/5.png' width='60%' />
 
 **他的目的不仅是想要回去自己的100，也想继续以388的价格骗你们**
 **老子不厌其烦解答问题，给他远程，半夜开高速都在回答他的问题。国庆假期也在回答。结果半夜凌晨两点多发消息骂我。现在开始诋毁我，还骗人钱。我真的是哭了。我他妈从来没遇到过这样的人。**
