@@ -163,6 +163,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 <br/>
 <img src='imgs/1001.png' width='70%' />
 <br/>
+
 可放置多个 Cookie。然后把请求里面的 hades 头数据，在`Stream` 单击 选择`格式化参数`。如图
 <br/>
 <img src='imgs/2.jpg' width='30%' />
