@@ -193,5 +193,5 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 ## 运行
 
 ```cmd
-python myapp.py
+python main.py
 ```
