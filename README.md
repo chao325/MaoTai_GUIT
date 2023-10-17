@@ -52,20 +52,6 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **<a href='https://docs.qq.com/doc/DR2d5ZHdtRG9hRFRl'>苹果手机如何抓包</a>**
 
-## 小白抓取Cookie的方法
-**目前Cookie一切正常的人可以忽略**
-
-首先感谢<a href='https://devpress.csdn.net/chongqing/64d896f8ecb00a6374e19ef7.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NzQzMzAxLCJleHAiOjE2OTgxMTM2OTMsImlhdCI6MTY5NzUwODg5MywidXNlcm5hbWUiOiJxcV80MjU1MTg2NiJ9.RXRjAhcx3BM9mhqd1k6K5GY3nNOTZlb4cZ_P6o1oB4g'>青龙面板教程提供的 易语言程序</a>
-
-**软件下载地址：https://888886633.lanzouw.com/iBkBk1c0xqeh**
-
-
-提醒一下，此程序只能抓取cookie并不能获得其他eid uuid等参数，如果需要，请看上方设备抓包教程
-<br/>
-<img src='imgs/ck1.png' width='40%' />
-<img src='imgs/ck2.png' width='40%' />
-
-抓到的ck直接替换进 config.ini文件内的Cookie里面。
 
 
 
