@@ -81,7 +81,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 ## 很久不更新维护的破软件卖4000 也是真够牛的。
 ## 骗子微信号：nkCnCn1991
 <br/>
-<img src='imgs/pz22.png' width='55%' />
+<img src='imgs/pz22.jpg' width='55%' />
 <br/>
 <img src='imgs/pz23.png' width='55%' />
 
