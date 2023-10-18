@@ -77,7 +77,16 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
   - 更改Sign算法
   - 提前30分钟自动预约
 
-# 警惕骗子！！！
+# 警惕骗子2
+## 很久不更新维护的破软件卖4000 也是真够牛的。
+## 骗子微信号：nkCnCn1991
+<br/>
+<img src='imgs/pz22.png' width='55%' />
+<br/>
+<img src='imgs/pz23.png' width='55%' />
+
+
+# 警惕骗子1
 
 ## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
 
