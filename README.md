@@ -52,6 +52,8 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **<a href='https://docs.qq.com/doc/DR2d5ZHdtRG9hRFRl'>苹果手机如何抓包</a>**
 
+**关于获取JD的 area 地址参数 请看教程说明（感谢tychxn提供帮助）**
+
 
 
 
