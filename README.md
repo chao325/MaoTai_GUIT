@@ -28,6 +28,29 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **如果有朋友想要学习或了解此脚本的抢购逻辑，及代码详情（代码趋于稳定）可以联系邮箱：zcsupercn@foxmail.com**
 
+
+
+# 警惕骗子1
+
+## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
+
+- 骗子QQ：2524267174
+  
+**骗子仓库地址为：https://github.com/wbzzzz/maotai_seckill**
+
+
+- 骗子QQ：2335625964
+- 骗子QQ：2972306946
+- 骗子微信：yc2335625964
+
+**骗子第一个仓库地址为：https://github.com/huawei-hw/JD-2023-10-8**
+
+**骗子第二个仓库地址为：https://github.com/BigC5201314/jd**
+
+
+
+
+
 ## 更新日志：
 ### 2023年10月24日
 **此版本逻辑没变，之前赞助的人，请按需自取。**
@@ -89,18 +112,6 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 <br/>
 <img src='imgs/pz23.png' width='55%' />
 
-
-# 警惕骗子1
-
-## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
-
-- 骗子QQ：2335625964
-- 骗子QQ：2972306946
-- 骗子微信：yc2335625964
-
-**骗子第一个仓库地址为：https://github.com/huawei-hw/JD-2023-10-8**
-
-**骗子第二个仓库地址为：https://github.com/BigC5201314/jd**
 
 
 ## 更新日志：
