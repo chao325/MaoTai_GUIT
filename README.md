@@ -36,7 +36,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 - 骗子QQ：2524267174
   
-**骗子仓库地址为：https://github.com/wbzzzz/maotai_seckill**
+**骗子仓库地址为 ：https://github.com/wbzzzz/maotai_seckill**
 
 
 - 骗子QQ：2335625964
