@@ -88,13 +88,13 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ## 使用教程
 
-**<a href='https://docs.qq.com/doc/DR2RwZ0t5dXBZbGJr'>【必看】拿到软件后我应该知道什么or做什么？</a>**
+**~~<a>【必看】拿到软件后我应该知道什么or做什么？</a>~~**
 
-**<a href='https://docs.qq.com/doc/DR0VWbUl0cVVva3hG'>【必看】如何查看我抢购成功或失败？</a>**
+**~~<a>【必看】如何查看我抢购成功或失败？</a>~~**
 
-**<a href='https://docs.qq.com/doc/DR2ZGVmphcHREQkJw'>安卓手机如何抓包</a>**
+**~~<a >安卓手机如何抓包</a~~**
 
-**<a href='https://docs.qq.com/doc/DR2d5ZHdtRG9hRFRl'>苹果手机如何抓包</a>**
+**~~<a>苹果手机如何抓包</a>~~**
 
 **关于获取JD的 area 地址参数 请看教程说明（感谢tychxn提供帮助）**
 
