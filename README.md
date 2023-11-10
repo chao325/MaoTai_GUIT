@@ -32,6 +32,9 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 # 警惕骗子1
 
+**骗子拿着免费软件骗人Gitee:https://gitee.com/yanbiubiu/iqmaotai?_from=gitee_search**
+
+
 ## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
 
 - 骗子QQ：2524267174
