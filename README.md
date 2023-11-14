@@ -21,7 +21,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 请务必仔细阅读并理解以上声明。下载、使用本程序的开源代码或软件即表示您同意遵守上述规定并承担相应的法律责任。
 
 
-  
+
 
 
 ## 停止捐赠
@@ -30,27 +30,6 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **如果有朋友想要学习或了解此脚本的抢购逻辑，及代码详情（代码趋于稳定）可以联系邮箱：zcsupercn@foxmail.com**
 
-
-
-# 警惕骗子1
-
-**骗子拿着免费软件骗人Gitee:https://gitee.com/yanbiubiu/iqmaotai?_from=gitee_search**
-
-
-## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
-
-- 骗子QQ：2524267174
-  
-**骗子仓库地址为 ：https://github.com/wbzzzz/maotai_seckill**
-
-
-- 骗子QQ：2335625964
-- 骗子QQ：2972306946
-- 骗子微信：yc2335625964
-
-**骗子第一个仓库地址为：https://github.com/huawei-hw/JD-2023-10-8**
-
-**骗子第二个仓库地址为：https://github.com/BigC5201314/jd**
 
 
 
@@ -80,8 +59,6 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 
 
-
-
 ## 看教程/捐赠前你需要知道的几件事
 1. 秒回+远程协助时间为 工作日 9：00~18：00 其余时间恢复甚慢！
 2. 觉得软件一定能够抢到的用户，我建议直接原价买茅台。
@@ -93,16 +70,42 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ## 使用教程
 
-**~~<a>【必看】拿到软件后我应该知道什么or做什么？</a>~~**
+**<a href='https://docs.qq.com/doc/DR2RwZ0t5dXBZbGJr'>【必看】拿到软件后我应该知道什么or做什么？</a>**
 
-**~~<a>【必看】如何查看我抢购成功或失败？</a>~~**
 
-**~~<a >安卓手机如何抓包</a~~**
+**<a href='https://docs.qq.com/doc/DR0VWbUl0cVVva3hG'>【必看】如何查看我抢购成功或失败？</a>**
 
-**~~<a>苹果手机如何抓包</a>~~**
+
+**<a href='https://docs.qq.com/doc/DR2ZGVmphcHREQkJw'>安卓手机如何抓包</a>**
+
+
+**<a href='https://docs.qq.com/doc/DR2d5ZHdtRG9hRFRl'>苹果手机如何抓包</a>**
 
 **关于获取JD的 area 地址参数 请看教程说明（感谢tychxn提供帮助）**
 
+
+
+
+
+# 警惕骗子1
+
+**骗子拿着免费软件骗人Gitee:https://gitee.com/yanbiubiu/iqmaotai?_from=gitee_search**
+
+
+## **<a href='https://docs.qq.com/doc/DR3dnamJaeVpYRHlG'>点我查看骗子详细信息</a>**
+
+- 骗子QQ：2524267174
+  
+**骗子仓库地址为 ：https://github.com/wbzzzz/maotai_seckill**
+
+
+- 骗子QQ：2335625964
+- 骗子QQ：2972306946
+- 骗子微信：yc2335625964
+
+**骗子第一个仓库地址为：https://github.com/huawei-hw/JD-2023-10-8**
+
+**骗子第二个仓库地址为：https://github.com/BigC5201314/jd**
 
 
 
