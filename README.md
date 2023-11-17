@@ -61,8 +61,9 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ## 使用教程
 
-**<a href='https://docs.qq.com/doc/DR2RwZ0t5dXBZbGJr'>【必看】拿到软件后我应该知道什么or做什么？</a>**
+**<a href='https://docs.qq.com/doc/DR2RwZ0t5dXBZbGJr'>【代码用户必看】拿到软件后我应该知道什么or做什么？</a>**
 
+**<a href='https://docs.qq.com/doc/DR01CQnFjWkVEUnZ0'>【软件用户必看】软件用户教程</a>**
 
 **<a href='https://docs.qq.com/doc/DR0VWbUl0cVVva3hG'>【必看】如何查看我抢购成功或失败？</a>**
 
