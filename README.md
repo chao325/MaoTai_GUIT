@@ -26,8 +26,36 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **如果有朋友想要学习或了解此脚本的抢购逻辑，及代码详情（代码趋于稳定）可以联系邮箱：zcsupercn@foxmail.com**
 
+## 周五福利日
+
+软件改为周卡月卡模式，特送**5张2天**卡密免费使用最新脚本 
+
+(每张卡密可绑定三台设备，也就是可供最多**10个用户**免费试用)
+
+**软件下载地址：https://888886633.lanzouw.com/ibCfG1hnkqxg**
 
 
+免费卡密
+```
+MF15-6seU85woFhOdY5KNQRb1
+MF15-j9ODbzHfPjLc5bRImdIU
+MF15-xIKWFxIgAAHjP4eEScwu
+MF15-hDQrZnj9vT9OpJH1m3gF
+MF15-1ktnAwkjLysfv8y0gBfB
+```
+
+使用教程：
+
+第一步，按照教程抓包，抓取你的pin+cookie填写到配置文件
+
+第二部，将卡密填写到配置文件打开。
+
+快速绑定设备方法：拿到卡密直接启动软件，默认绑定，如果提示 绑定超限制等，代表此卡密失效。
+
+
+
+<br/>
+<img src='imgs/km1.png' width='40%' />
 
 
 
