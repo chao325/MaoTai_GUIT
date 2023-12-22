@@ -26,7 +26,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 **如果有朋友想要学习或了解此脚本的抢购逻辑，及代码详情（代码趋于稳定）可以联系邮箱：zcsupercn@foxmail.com**
 
-## 12.15周五福利日
+## ~~12.15周五福利日~~12.22周五福利日
 
 软件改为周卡月卡模式，特送**5张2天**卡密免费使用最新脚本 
 
@@ -35,13 +35,14 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 **软件下载地址：https://888886633.lanzouw.com/ibCfG1hnkqxg**
 
 
-免费卡密
+免费卡密第二组 (最后一批)
 ```
-MF15-6seU85woFhOdY5KNQRb1
-MF15-j9ODbzHfPjLc5bRImdIU
-MF15-xIKWFxIgAAHjP4eEScwu
-MF15-hDQrZnj9vT9OpJH1m3gF
-MF15-1ktnAwkjLysfv8y0gBfB
+# 恶意注册服务器将拉黑设备。
+MF15-36j7kHstyUQGa3M5ArqQ
+MF15-htjFVnTFNG3wZrazBElp
+MF15-0WnWYTVmWUJ07GjwfWLH
+MF15-LAdSvxn6QL3C6jnYV52A
+MF15-7GWVGnDNEkuAaHYcDU0f
 ```
 
 使用教程：
