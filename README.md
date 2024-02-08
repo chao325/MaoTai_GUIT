@@ -35,24 +35,34 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 
 
-## ~~12.15周五福利日~~12.22周五福利日
+## ~~12.22周五福利日~~2024年新年免费卡
 
-软件改为周卡月卡模式，特送**5张2天**卡密免费使用最新脚本 
+**除夕夜（9号）下午18左右点开放注册使用**
 
-(每张卡密可绑定三台设备，也就是可供最多**10个用户**免费试用)
+迎接新年到来，特送**10张2天**卡密免费使用最新脚本 
 
-**软件下载地址：**
+(每张卡密可绑定三台设备，也就是可供最多**30个用户**免费试用)
 
+**软件下载地址：https://888886633.lanzn.com/i75o01nglred**
 
 免费卡密第三组
 ```
 # 恶意注册服务器将拉黑设备。
-等待发布
+New-Year-8CZwRSjQrkVzv4MZJ2aU
+New-Year-zmHWW0Cyt0Kul9yNVYT5
+New-Year-gqUa9CsdAb2BW0cyaL82
+New-Year-gIuwBt7yYMORuvf1g3DT
+New-Year-UP2oGTIm2whrDbbIT2r7
+New-Year-mNQxDXHr7R0pisI1DV8W
+New-Year-E7mHNWqh6pqqXDBdEAnC
+New-Year-JYW7dX96zl6witlB4nZw
+New-Year-fEqGUpnTklLxNS5yoajB
+New-Year-kBG1N23mBlNnRryzCLzB
 ```
 
 使用教程：
 
-第一步，按照教程抓包，抓取你的pin+cookie填写到配置文件
+第一步，按照下方教程抓包，抓取你的pin+cookie填写到配置文件，其他参数默认即可
 
 第二部，将卡密填写到配置文件打开。
 
