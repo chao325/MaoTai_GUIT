@@ -28,36 +28,28 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 
 ## 更新日志【全版本】：
-### 2024年02月05日
-- 更换了IP代理商线程更多，IP池更丰富。
-- **重新更改了部分参数，大大降低账号被盾以及网络原因导致的没参与抢购（重要）**
+### 2024年03月21日
+- 因费用问题，调整了IP分配逻辑，频繁使用，IP固定分配。使用较少，IP随机分配或者暂不分配（不分配照常使用）。
+- 添加验证码自动验证。
+- 修改提交参数，可调商品数量
+- **新增账号刷新功能（经测试有概率增加某东分）（重要）**
+- 删除部分逻辑。
 
 
 
 
-## ~~12.22周五福利日~~2024年新年免费卡
 
-**除夕夜（9号）下午18左右点开放注册使用**
 
-迎接新年到来，特送**10张2天**卡密免费使用最新脚本 
+## ~~12.22周五福利日 2024年新年免费卡~~
 
-(每张卡密可绑定三台设备，也就是可供最多**30个用户**免费试用)
+
 
 ~~**软件下载地址：**~~
 
 免费卡密第三组
 ```
 # 恶意注册服务器将拉黑设备。
-New-Year-8CZwRSjQrkVzv4MZJ2aU
-New-Year-zmHWW0Cyt0Kul9yNVYT5
-New-Year-gqUa9CsdAb2BW0cyaL82
-New-Year-gIuwBt7yYMORuvf1g3DT
-New-Year-UP2oGTIm2whrDbbIT2r7
-New-Year-mNQxDXHr7R0pisI1DV8W
-New-Year-E7mHNWqh6pqqXDBdEAnC
-New-Year-JYW7dX96zl6witlB4nZw
-New-Year-fEqGUpnTklLxNS5yoajB
-New-Year-kBG1N23mBlNnRryzCLzB
+
 ```
 
 使用教程：
@@ -124,7 +116,7 @@ New-Year-kBG1N23mBlNnRryzCLzB
 
 
 # 警惕骗子2
-## 很久不更新维护的破软件卖4000 也是真够牛的。
+## 很久不更新维护的破软件卖4000 。
 ## 骗子微信号：nkCnCn1991
 <br/>
 <img src='imgs/pz22.jpg' width='55%' />
@@ -134,6 +126,11 @@ New-Year-kBG1N23mBlNnRryzCLzB
 
 
 ## 更新日志：
+
+### 2024年02月05日
+- 更换了IP代理商线程更多，IP池更丰富。
+- **重新更改了部分参数，大大降低账号被盾以及网络原因导致的没参与抢购（重要）**
+
 
 ### 2024年1月18日（服务器小白请忽略）
 - 小白请忽略！暂无教程，后续会出。
