@@ -42,18 +42,7 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 <br/>
 <img src='imgs/sm22.jpg' width='50%' />
 
-
-
-
-使用教程：
-
-第一步，按照下方教程抓包，抓取你的pin+cookie填写到配置文件，其他参数默认即可
-
-第二部，将卡密填写到配置文件打开。
-
-快速绑定设备方法：拿到卡密直接启动软件，默认绑定，如果提示 绑定超限制等，代表此卡密失效。
-
-
+----------------END-----------------
 
 <br/>
 <img src='imgs/km1.png' width='40%' />
@@ -66,9 +55,9 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ## 使用教程
 
-**<a href='https://docs.qq.com/doc/DR2RwZ0t5dXBZbGJr'>【代码用户必看】拿到软件后我应该知道什么or做什么？</a>**
+**<a href='https://docs.qq.com/doc/DR3lNbU5DV01DVmlF'>【新版本】软件用户教程</a>**
 
-**<a href='https://docs.qq.com/doc/DR01CQnFjWkVEUnZ0'>【软件用户必看】软件用户教程</a>**
+**<a href='https://docs.qq.com/doc/DR01CQnFjWkVEUnZ0'>【旧版】软件用户教程</a>**
 
 **<a href='https://docs.qq.com/doc/DR0VWbUl0cVVva3hG'>【必看】如何查看我抢购成功或失败？</a>**
 
