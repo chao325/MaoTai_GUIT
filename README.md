@@ -34,13 +34,13 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 
 ### 二次登录
 <br/>
-<img src='imgs/km2.jpg' width='40%' />
+<img src='imgs/km2.png' width='40%' />
 
 
 ## 这段时间：
 
 <br/>
-<img src='imgs/sm22.jpg' width='50%' />
+<img src='imgs/sm22.png' width='50%' />
 
 ----------------END-----------------
 
