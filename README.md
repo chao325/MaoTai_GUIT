@@ -35,8 +35,8 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 ### 部分用户提示密码错误
 <br/>
 <img src='imgs/userasser.png' width='40%' />
-## 这段时间：
 
+## 这段时间：
 <br/>
 <img src='imgs/sm22.png' width='50%' />
 
