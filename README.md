@@ -48,8 +48,8 @@ JD 京东抢购、京东抢茅台 Windows 端、开箱即用无需配置环境�
 | 长期套餐 | ¥280 | 2TB    | 一次性流量，用完为止 |
 
 **流量不值钱，值钱的是稳定**
-<img src='imgs/vpn2.png' width='40%' />
 
+<img src='imgs/vpn2.png' width='40%' />
 <img src='imgs/vpn.png' width='40%' />
 
 
